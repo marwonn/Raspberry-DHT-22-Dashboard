@@ -1,6 +1,5 @@
 testing/
 app/helper/config_local.py
-app/helper/config.py
 app/static/db/*
 app/helper/*git.py
 .vscode
